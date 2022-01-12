@@ -4619,7 +4619,7 @@
         },
         {
             "name": "symfony/translation",
-            "version": "v5.4.2",
+            "version": "v4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/translation.git",
@@ -4716,7 +4716,7 @@
         },
         {
             "name": "symfony/translation-contracts",
-            "version": "v2.5.0",
+            "version": "v1.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/translation-contracts.git",
