@@ -16,7 +16,7 @@
  @csrf
  <div class="form-group">
    <label for="">New Items</label>
-   <input type="text" name="barcode" id="barcode" class="form-control" placeholder="barcode" aria-describedby="helpId">
+   <input type="text" name="barcode" id="barcode" class="form-control" placeholder="barcode" aria-describedby="helpId" onblur="this.focus()" autofocus >
    <small id="helpId" class="text-muted">Barcode</small>
  </div>
  <input class="btn btn-primary" name="type" type="submit" value="Submit"/>
