@@ -72,7 +72,7 @@
  <li>
  <form action="{{route('logout')}}" method="POST">
  @csrf
- <button class="dropdown-item"style="cursor:pointer">Sign Out</button>
+ <button class="dropdown-item"style="cursor:pointer">Log Out</button>
  </form>
  </li>
  </div>
